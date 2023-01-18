@@ -1,0 +1,12 @@
+{
+  "name": "betbot",
+  "version": "1.0.0",
+  "description": "friends betting bot",
+  "main": "index.js",
+  "author": "Thibault GM",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.5.0",
+    "mysql": "^2.18.1"   
+  }
+}
